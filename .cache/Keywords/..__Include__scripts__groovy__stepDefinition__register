@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "C02EBA0EE33430E405AD3607AA5737DA",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.register",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

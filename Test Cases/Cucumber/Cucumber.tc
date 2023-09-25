@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Running all feature</description>
+   <name>Cucumber</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>21ad110e-8011-4a3e-8990-b5f6f9ddeb90</testCaseGuid>
+</TestCaseEntity>

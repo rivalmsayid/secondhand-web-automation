@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "4A4CF43157592A5952847C549E84CF80",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.buy_product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

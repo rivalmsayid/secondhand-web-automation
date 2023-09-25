@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "460754C82C0555F382EECF86D5F0B2DE",
+  "keywordClasses": [
+    {
+      "name": "stepDefinition.add_new_product",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

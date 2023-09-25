@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>detail_date_time_notif</name>
+   <tag></tag>
+   <elementGuidId>1b423006-d2f1-4db1-b3c3-b1aee3861930</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown me-0 me-lg-2 fs-5 d-none d-xl-block position-relative&quot;]/ul[@class=&quot;dropdown-menu notification-dropdown-menu px-4 show&quot;]/li[1]/a[@class=&quot;notification my-4 px-2 position-relative&quot;]/div[@class=&quot;notification-timestamp fs-6 text-black-50&quot;]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.notification-timestamp.fs-6.text-black-50</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c31387f5-99d7-4590-aa8d-f75cf3adf3a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>notification-timestamp fs-6 text-black-50</value>
+      <webElementGuid>8f59c3c5-dafe-42d3-b4ca-4d41c4beddbd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>12 Sep, 21:40</value>
+      <webElementGuid>e2164db4-4d8a-44b8-b8b7-2ce3943e6719</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarSupportedContent&quot;)/div[@class=&quot;ms-auto&quot;]/ul[@class=&quot;navbar-nav&quot;]/li[@class=&quot;nav-item dropdown me-0 me-lg-2 fs-5 d-none d-xl-block position-relative&quot;]/ul[@class=&quot;dropdown-menu notification-dropdown-menu px-4 show&quot;]/li[1]/a[@class=&quot;notification my-4 px-2 position-relative&quot;]/div[@class=&quot;notification-timestamp fs-6 text-black-50&quot;]</value>
+      <webElementGuid>4734ddf6-c3d6-4c4d-ad0f-9d255b29c8a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarSupportedContent']/div/ul/li[3]/ul/li/a/div[2]</value>
+      <webElementGuid>c3ef5c39-03d0-47e5-b2c5-93ed63203b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='rtRp 900'])[1]/following::div[1]</value>
+      <webElementGuid>2d21d963-193b-4087-b6f0-d34481a76cea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil di terbitkan'])[1]/following::div[2]</value>
+      <webElementGuid>503c6aad-56d7-41c0-b821-8bd82c34f4d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New alerts'])[3]/preceding::div[1]</value>
+      <webElementGuid>ed170263-146a-4782-9a0e-c912d1b2ca04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berhasil di terbitkan'])[2]/preceding::div[1]</value>
+      <webElementGuid>09136874-9e65-4cf2-92df-3fed9065f79d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='12 Sep, 21:40']/parent::*</value>
+      <webElementGuid>f4b58c97-231b-4679-b755-80df02ea091d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]</value>
+      <webElementGuid>ffcc1769-3150-4eda-b6c4-ab8f936a8975</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '12 Sep, 21:40' or . = '12 Sep, 21:40')]</value>
+      <webElementGuid>60a6f800-e0fb-4efe-af9f-905a6c6f7ff7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
